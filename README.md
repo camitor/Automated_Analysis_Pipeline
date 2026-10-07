@@ -341,7 +341,7 @@ These practices reduce unintended variation between executions and help limit in
 Add the repository-specific Colab URL here after the notebook is uploaded to GitHub:
 
 ```markdown
-(https://colab.research.google.com/drive/11IhrVcgXEBxtcnj4Fs22P-vczJXqGouR?usp=sharing)
+https://colab.research.google.com/drive/11IhrVcgXEBxtcnj4Fs22P-vczJXqGouR?usp=sharing
 ```
 
 ---
